@@ -1,5 +1,5 @@
 [project]
-name = "fastapi-projrct"
+name = "fastapi-simple-social-media"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
